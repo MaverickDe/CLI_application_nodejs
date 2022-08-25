@@ -19,7 +19,8 @@ to Create a Cli application
 ```bash
 To access the command_line input you can use the built-in global process module or inquirer which is an external module
 
-```![Screenshot_20220825-021708~2](https://user-images.githubusercontent.com/100746581/186553810-ee4f7124-8784-4d9e-9213-873240061de3.jpg)
+```
+![Screenshot_20220825-021708~2](https://user-images.githubusercontent.com/100746581/186553810-ee4f7124-8784-4d9e-9213-873240061de3.jpg)
 ![Screenshot_20220825-021712~2](https://user-images.githubusercontent.com/100746581/186553821-6e3e7af1-c949-41e0-b4cb-f1f1ff223b65.jpg)
 
 
